@@ -1,0 +1,6 @@
+name: JustRune
+version: '${version}'
+main: org.zxc_tako25.justrune.JustRune
+api-version: '1.16'
+commands:
+  rune:
