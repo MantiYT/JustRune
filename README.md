@@ -1,4 +1,4 @@
-# JustRube
+# JustRune
 
 ![Platform](https://img.shields.io/badge/Platform-Paper-007ACC?style=for-the-badge&logo=paperMC&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
